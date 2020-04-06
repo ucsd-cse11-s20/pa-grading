@@ -7,4 +7,4 @@ chmod 400 ./source/id_rsa
 cp ./source/config ~/.ssh/config
 git clone git@github.com:ucsd-cse11-s20/${ASSIGNMENT_TITLE}-grading.git
 rm ./source/id_rsa
-bash ${ASSIGNMENT_TITLE}-grading/grade
+./${ASSIGNMENT_TITLE}-grading/grade
