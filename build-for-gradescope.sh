@@ -1,4 +1,4 @@
-
+#!/bin/bash
 if [ $# -ne 1 ]; 
     then echo "Provide the path to your Github ssh key as the first parameter"
 fi
