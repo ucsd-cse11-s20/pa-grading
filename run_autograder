@@ -9,4 +9,3 @@ git clone git@github.com:ucsd-cse11-s20/${ASSIGNMENT_TITLE}-grading.git
 rm ./source/id_rsa
 cd ${ASSIGNMENT_TITLE}-grading
 ./grade
-./run ExampleTweets
